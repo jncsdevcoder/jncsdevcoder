@@ -1,8 +1,8 @@
-## 👋 Hola, Gracias por Visitar mí Perfil!
+# 👋 Hola, Gracias por Visitar mí Perfil!
 
-### Soy Juan Carlos Ccosi Calachahui.
+## Soy Juan Carlos Ccosi Calachahui.
 
-###👨🏼‍💻Programador y 👨‍🎨 Diseñador Web en Crecimiento desde Perú !
+### 👨🏼‍💻Programador y 👨‍🎨 Diseñador Web en Crecimiento desde Perú !
 
   - 🌱 Actualmente estoy en constante aprendizaje de nuevas Tecnologias basados en Web.
   - 👯🔭 Apoyo y busco Colaborar en diversos Proyectos de código abierto ó Proyectos Sociales

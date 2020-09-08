@@ -23,7 +23,7 @@
    - 👯🔭 Support and seek to Collaborate in various open source projects or Social Projects
    - 💬 Ask me about any subject of Programming and Web Design.
    - ❤👨‍👩‍👧‍👦 I help, I teach people and I advise on issues of Programming and Web Design.
-   - ☕ Agendame en una reunión de [Meet](https://meet.google.com/) y Estaré Felíz de poder conversar Contigo!
+   - ☕ Schedule me in a meeting of [Meet](https://meet.google.com/) and I'll be happy to talk with you!
   
 <h1>
 </h1>
@@ -59,7 +59,7 @@
 <img src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="linux" width="40" height="40"/>
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-
+<p></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jncsdevcoder&layout=compact&hide=html" alt="jncsdevcoder" />
 
 </p><p>

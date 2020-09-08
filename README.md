@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-<a href="https://twitter.com/jncs_calachahui" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="" height="30" width="30" /></a>
-<a href="https://fb.me/juancarloscalachahui" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="" height="30" width="30" /></a>
+<a href="https://twitter.com/jncs_calachahui" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="https://twitter.com/jncs_calachahui" height="30" width="30" /></a>
+<a href="https://fb.me/juancarloscalachahui" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="https://fb.me/juancarloscalachahui" height="30" width="30" /></a>
 <a href="https://instagram.com/https://www.instagram.com/gonzalocaira/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/juan-carlos-ccosi-calachahui" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="" height="30" width="30" /></a>
 <a href="https://wa.me/965067688" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="" height="30" width="30" /></a>

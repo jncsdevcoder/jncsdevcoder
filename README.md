@@ -19,7 +19,7 @@
 <h2 align="center">👨🏼‍💻 Programmer and Growing 👨‍🎨 Web Designer from Peru!</h2>
 
 
-  - 🌱 *I am currently in constant learning of new Web-based Technologies.*
+  <p> 🌱 *I am currently in constant learning of new Web-based Technologies.* </p>
    - 👯🔭 *Support and seek to Collaborate in various open source projects or Social Projects*
    - 💬 *Ask me about any subject of Programming and Web Design.*
    - ❤👨‍👩‍👧‍👦 *I help, I teach people and I advise on issues of Programming and Web Design.*

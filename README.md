@@ -23,7 +23,7 @@
    - 👯🔭 Support and seek to Collaborate in various open source projects or Social Projects
    - 💬 Ask me about any subject of Programming and Web Design.
    - ❤👨‍👩‍👧‍👦 I help, I teach people and I advise on issues of Programming and Web Design.
-   -  - ☕ Agendame en una reunión de [Meet](https://meet.google.com/) y Estaré Felíz de poder conversar Contigo!
+   - ☕ Agendame en una reunión de [Meet](https://meet.google.com/) y Estaré Felíz de poder conversar Contigo!
   
 <h1>
 </h1>

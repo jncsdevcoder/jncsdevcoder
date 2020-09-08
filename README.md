@@ -1,18 +1,68 @@
-# 👋 Hola, Gracias por Visitar mí Perfil!
+<h1 align="center">Hi 👋, I'm  Soy Juan Carlos Ccosi Calachahui
+<p></p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=jncsdevcoder&style=plastic&color=red" alt="jncsdevcoder" /> 
+</p>
 
-## Soy Juan Carlos Ccosi Calachahui.
+<p align="center">
+<a href="https://twitter.com/jncs_calachahui" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="" height="30" width="30" /></a>
+<a href="https://fb.me/juancarloscalachahui" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="" height="30" width="30" /></a>
+<a href="https://instagram.com/https://www.instagram.com/gonzalocaira/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/juan-carlos-ccosi-calachahui" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="" height="30" width="30" /></a>
+<a href="https://wa.me/965067688" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="" height="30" width="30" /></a>
+<a href="mailto:jncs.cc@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="" height="30" width="30" /></a>
 
-### 👨🏼‍💻Programador y 👨‍🎨 Diseñador Web en Crecimiento desde Perú !
+</p>
 
-  - 🌱 Actualmente estoy en constante aprendizaje de nuevas Tecnologias basados en Web.
-  - 👯🔭 Apoyo y busco Colaborar en diversos Proyectos de código abierto ó Proyectos Sociales
-  - 💬 Pregúntame sobre cualquier tema de Programación y Diseño Web.
-  - ❤👨‍👩‍👧‍👦   Ayudo, Enseño a las personas y asesoro en temas de Programación y Diseño Web.
+</h1>
+
+<h2 align="center">👨🏼‍💻 Programmer and Growing 👨‍🎨 Web Designer from Peru!</h2>
+
+
+  - 🌱 I am currently in constant learning of new Web-based Technologies.
+   - 👯🔭 Support and seek to Collaborate in various open source projects or Social Projects
+   - 💬 Ask me about any subject of Programming and Web Design.
+   - ❤👨‍👩‍👧‍👦 I help, I teach people and I advise on issues of Programming and Web Design.
+   -  - ☕ Agendame en una reunión de [Meet](https://meet.google.com/) y Estaré Felíz de poder conversar Contigo!
   
-### 📫 Donde me puedes Ubicar y Contactar:
-  
-  - 👨‍🎓 LinkedIn: [Juan Carlos Ccosi Calachahui](https://www.linkedin.com/in/juan-carlos-ccosi-calachahui)
-  - 🧑 Facebook: [Juan Carlos Calachahui](fb.me/juancarloscalachahui)
-  - 📱 WhatsApp: [+51 965067688](https://wa.me/965067688)
-  - 📧 Correo electrónico: jncs.cc@gmail.com
-  - ☕ Agendame en una reunión de [Meet](https://meet.google.com/) y Estaré Felíz de poder conversar Contigo!
+<h1>
+</h1>
+
+<h2 align="center">Development and design in:</h2>
+
+<p align="left">
+
+<img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+
+<img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+
+<img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="git" width="40" height="40"/>
+
+<img src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain.svg" alt="git" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="git" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+
+<img src="https://devicon.dev/devicon.git/icons/django/django-original.svg" alt="linux" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+
+<img src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="linux" width="40" height="40"/>
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jncsdevcoder&layout=compact&hide=html" alt="jncsdevcoder" />
+
+</p><p>
+<h1>
+</h1>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jncsdevcoder&show_icons=true" alt="jncsdevcoder" /></p>

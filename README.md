@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm  Soy Juan Carlos Ccosi Calachahui
 <p></p>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=jncsdevcoder&style=plastic&color=red" alt="jncsdevcoder" /> 
+  <img src="https://komarev.com/ghpvc/?username=jncsdevcoder&style=plastic&color=blue" alt="jncsdevcoder" /> 
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <h2 align="center">👨🏼‍💻 Programmer and Growing 👨‍🎨 Web Designer from Peru!</h2>
 
 
-  <p> 🌱 *I am currently in constant learning of new Web-based Technologies.* </p>
+   - 🌱 *I am currently in constant learning of new Web-based Technologies.*
    - 👯🔭 *Support and seek to Collaborate in various open source projects or Social Projects*
    - 💬 *Ask me about any subject of Programming and Web Design.*
    - ❤👨‍👩‍👧‍👦 *I help, I teach people and I advise on issues of Programming and Web Design.*

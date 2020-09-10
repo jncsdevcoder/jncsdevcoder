@@ -10,6 +10,7 @@
 <a href="https://www.instagram.com/jncs_calachahui/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://www.instagram.com/jncs_calachahui" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/juan-carlos-ccosi-calachahui" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/juan-carlos-ccosi-calachahui" height="30" width="30" /></a>
 <a href="https://wa.me/965067688" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="https://wa.me/965067688" height="30" width="30" /></a>
+<a href="https://t.me/jncs_calachahui" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="https://t.me/jncs_calachahui" height="30" width="30" /></a>
 <a href="mailto:jncs.cc@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:jncs.cc@gmail.com" height="30" width="30" /></a>
 
 </p>

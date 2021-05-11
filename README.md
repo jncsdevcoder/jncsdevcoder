@@ -45,7 +45,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
 
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Mysql" width="40" height="40"/>
 

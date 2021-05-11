@@ -41,7 +41,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
 
-<img src="hhttps://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="git" width="40" height="40"/>
 

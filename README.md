@@ -17,19 +17,19 @@
 
 </h1>
 
-<h2 align="center">👨🏼‍💻 Programmer and Growing 👨‍🎨 Web Designer from Peru!</h2>
+<h2 align="center">👨🏼‍💻 Growing Programmer... and 👨‍🎨 Web Designer from Perú;</h2>
 
 
-   - 🌱 *I am currently in constant learning of new Web-based Technologies.*
-   - 👯🔭 *Support and seek to Collaborate in various open source projects or Social Projects*
-   - 💬 *Ask me about any subject of Programming and Web Design.*
-   - ❤👨‍👩‍👧‍👦 *I help, I teach people and I advise on issues of Programming and Web Design.*
-   - ☕ *Schedule me in a meeting of [Meet](https://meet.google.com/) and I'll be happy to talk with you!*
+   - 🌱 *I am currently in constant learning of new Web-based Technologies;*
+   - 👯🔭 *Support and seek to Collaborate in various open source projects or Social Projects;*
+   - 💬 *Ask me about any subject of Programming and Web Design;*
+   - ❤👨‍👩‍👧‍👦 *I help, I teach people and I advise on issues of Programming and Web Design;*
+   - ☕ *Schedule me in a meeting of [Meet](https://meet.google.com/) and I'll be happy to talk with you!;*
   
 <h1>
 </h1>
 
-<h2 align="center">Development and design in:</h2>
+<h2 align="center">Development and Design in:</h2>
 
 <p align="left">
 
